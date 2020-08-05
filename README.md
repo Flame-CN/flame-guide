@@ -14,14 +14,14 @@
     ```
     └── doc
         ├── 1.关于Flame
-        │   ├── 1.1Flame团队
+        │   ├── 1.1.Flame团队
         │   │   ├── Flame团队-01.png
         │   │   ├── Flame团队-02.png
         │   │   └── Flame团队.md
-        │   └── 1.2Flame介绍
+        │   └── 1.2.Flame介绍
         │       └── Flame介绍.md
         └── 2.快速开始
-            └── 2.1安装Flame
+            └── 2.1.安装Flame
                 └── 安装Flame.md
     ```
 
