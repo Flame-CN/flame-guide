@@ -27,3 +27,4 @@
     * [Tiled 地图编辑器](docs/6.其他模块/6.5.Tiled地图编辑器/Tiled地图编辑器.md)
     * [Debugging](docs/6.其他模块/6.6.Debugging/Debugging.md)
     * [启动界面](docs/6.其他模块/6.7.启动界面/启动界面.md)
+    * [文档撰写规范](README.md)

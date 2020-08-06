@@ -1,5 +1,7 @@
 {
+  "title": "Flame中文官方文档",
   "plugins": [
     "expandable-chapters"
-  ]
+  ],
+  "variables": {}
 }
