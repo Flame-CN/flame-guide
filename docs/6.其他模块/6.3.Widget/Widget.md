@@ -1,6 +1,6 @@
 # Widgets
 
-当使用Flutter开发游戏时，一个很酷的功能是能够使用Flutter广泛的工具集来构建UI，Flame试图扩展这一功能，引入专门为游戏而设计的部件。
+当使用 Flutter 开发游戏时， Flutter 工具集能够构建一个很酷UI，Flame 试图扩展这一功能，引入专门为游戏而设计的部件。
 
 在这里，您可以找到Flame提供的所有可用部件。
 
@@ -17,7 +17,7 @@
 
 用法示例:
 
-```
+```dart
 import 'package:flame/widgets/nine_tile_box.dart';
 
 NineTileBox(
@@ -34,7 +34,7 @@ NineTileBox(
 请记住，将Sprites传递到部件时必须确保已经加载了它们。
 
 如何使用它:
-```
+```dart
 SpriteButton(
     onPressed: () {
         print('Pressed');
@@ -48,7 +48,7 @@ SpriteButton(
 `SpriteWidget` 用于在部件树中显示 [Sprites](https://github.com/flame-engine/flame/blob/master/lib/sprite.dart) 的部件。
 
 如何使用它:
-```
+```dart
 SpriteWidget(
     sprite: shieldSprite,
     center: true,
@@ -60,7 +60,7 @@ SpriteWidget(
 `AnimationWidget` 用于在部件树中显示 [Animations](https://github.com/flame-engine/flame/blob/master/lib/animation.dart) 的部件。
 
 如何使用它:
-```
+```dart
 AnimationWidget(
     animation: _animation,
     playing: true,
