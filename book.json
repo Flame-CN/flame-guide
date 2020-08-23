@@ -1,7 +1,17 @@
 {
   "title": "Flame中文官方文档",
+  "description": "Flame中文文档",
   "plugins": [
-    "expandable-chapters"
+    "expandable-chapters",
+    "prism",
+    "-highlight"
   ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-okaidia.css"
+      ]
+    }
+  },
   "variables": {}
 }
