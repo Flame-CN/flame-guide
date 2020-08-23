@@ -4,13 +4,19 @@
   "plugins": [
     "expandable-chapters",
     "prism",
-    "-highlight"
+    "-highlight",
+    "tbfed-pagefooter"
   ],
   "pluginsConfig": {
     "prism": {
       "css": [
         "prismjs/themes/prism-okaidia.css"
       ]
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Flame中文站",
+      "modify_label": "最后修改：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
   },
   "variables": {}
